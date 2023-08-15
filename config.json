@@ -2,7 +2,7 @@
   "embeddings": [
     {
       "tensorName": "My Embeddings",
-      "tensorPath": "https://raw.githubusercontent.com/pmirla/projector/main/tensors.tsv",
+      "tensorPath": "https://raw.githubusercontent.com/pmirla/projector/main/tensors_1.tsv",
       "metadataPath": "https://raw.githubusercontent.com/pmirla/projector/main/metadata%20(2).tsv",
       "sprite": {
         "imagePath": "https://raw.githubusercontent.com/pmirla/projector/main/sprite.png",
